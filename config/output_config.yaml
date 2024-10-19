@@ -1,0 +1,13 @@
+# config/output_config.yaml
+output_paths:
+  analysis_1: "./output/Analysis_1/"
+  analysis_2: "./output/Analysis_2/"
+  analysis_3: "./output/Analysis_3/"
+  analysis_4: "./output/Analysis_4/"
+  analysis_5: "./output/Analysis_5/"
+  analysis_6: "./output/Analysis_6/"
+  analysis_7: "./output/Analysis_7/"
+  analysis_8: "./output/Analysis_8/"
+  analysis_9: "./output/Analysis_9/"
+  analysis_10: "./output/Analysis_10/"
+visualization_path: "./output/visualizations/"

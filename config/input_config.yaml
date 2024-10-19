@@ -1,0 +1,9 @@
+# config/input_config.yaml
+data_path: "./data/"
+files:
+  charges: "charges.csv"
+  damages: "damages.csv"
+  endorsements: "endorsements.csv"
+  primary_persons: "primary_persons.csv"
+  restrict: "restrict.csv"
+  units: "units.csv"

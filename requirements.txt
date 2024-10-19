@@ -1,0 +1,7 @@
+pandas
+pyspark
+pyyaml
+matplotlib
+seaborn
+plotly
+kaleido
